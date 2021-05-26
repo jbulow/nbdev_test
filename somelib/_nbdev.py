@@ -9,6 +9,6 @@ modules = ["core.py"]
 
 doc_url = "https://jbulow.github.io/nbdev_test/somelib/"
 
-git_url = "https://github.com/nbdev_test/somelib/tree/master/"
+git_url = "https://github.com/jbulow/nbdev_test/somelib/tree/master/"
 
 def custom_doc_links(name): return None
