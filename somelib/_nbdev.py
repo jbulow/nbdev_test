@@ -7,8 +7,8 @@ index = {"say_hello": "00_core.ipynb",
 
 modules = ["core.py"]
 
-doc_url = "https://jbulow.github.io/somelib/"
+doc_url = "https://jbulow.github.io/nbdev_test/somelib/"
 
-git_url = "https://github.com/jbulow/somelib/tree/master/"
+git_url = "https://github.com/nbdev_test/somelib/tree/master/"
 
 def custom_doc_links(name): return None
